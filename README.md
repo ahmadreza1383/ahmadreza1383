@@ -4,8 +4,8 @@
 
 👇👇👇 جدید ترین مطالب
 
-* لینوکس
-* لاراول
+* [Linux](https://github.com/ahmadreza1383/linux)
+* [Laravel](https://github.com/ahmadreza1383/laravel)
 
 __با امید موفقیت :)__
 
